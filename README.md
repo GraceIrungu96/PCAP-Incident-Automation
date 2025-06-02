@@ -1,5 +1,7 @@
 # SOC Automation System
 
+# Flow-Chat: https://miro.com/app/board/uXjVIt_4nDk=/?share_link_id=591383799573
+
 This project implements a Security Operations Center (SOC) automation backend using **FastAPI**. It supports automated analysis of packet capture (PCAP) files, threat detection, AI-assisted alert generation, evidence logging, and alert lifecycle management.
 
 ## Features
